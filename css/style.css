@@ -29,7 +29,6 @@ body {
 /* banner start */
 
 .banner {
-    /*min-height: 850px;*/
     background-image: url(../images/banner.jpg);
     background-repeat: no-repeat;
     background-position: center;
@@ -38,7 +37,6 @@ body {
 
 header {
     padding: 20px 0;
-    /* border-bottom: 1px solid #fff; */
 }
 
 .c_container-fluid {
@@ -50,7 +48,7 @@ header {
 
 .menu ul li a {
     font-family: 'Raleway', sans-serif;
-    font-size: 13px;
+    font-size: 20px;
     font-weight: 700;
     color: #ffffffa8 !important;
     text-transform: uppercase;
@@ -97,7 +95,7 @@ header {
     width: 200px;
     height: 50px;
     font-family: 'Raleway', sans-serif;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 400;
     text-transform: uppercase;
     background-color: #e84545;
@@ -122,7 +120,6 @@ header {
 /* feature start */
 
 .f_icon i {
-    margin-top: 55px;
     font-size: 70px;
     color: #e84646;
 }
@@ -130,8 +127,6 @@ header {
 .f_icon i:hover {
     color: #2b2e49;
 }
-
-.f_text {}
 
 .f_text h2 {
     margin-top: 45px;
@@ -146,7 +141,7 @@ header {
     font-size: 16px;
     font-weight: 400;
     color: #6c7279;
-    line-height: 25px;
+    line-height: 22px;
 }
 
 
@@ -157,6 +152,10 @@ header {
 
 .box4 {
     position: relative;
+}
+
+.box4:hover {
+    opacity: 0.6;
 }
 
 .box4:before {
@@ -303,8 +302,6 @@ header {
 
 /* testimonial start */
 
-.testimonials {}
-
 .slider_img {
     width: 100%;
 }
@@ -318,20 +315,20 @@ header {
 }
 
 .slider_content {
-    margin-top: 15%;
+    margin-top: 4%;
 }
 
 .slider_content p {
     font-family: 'Cardo', serif;
-    font-size: 30px;
+    font-size: 38px;
     font-weight: 400;
     color: #ffffff;
-    line-height: 40px;
+    line-height: 60px;
 }
 
 .slider_content p span {
     font-family: 'Raleway', sans-serif;
-    font-size: 13px;
+    font-size: 22px;
     font-weight: 700;
     color: #ffffff;
     text-transform: uppercase;
@@ -353,8 +350,6 @@ header {
 
 /* download start */
 
-.d_title {}
-
 .d_title h1 {
     font-family: 'Raleway', sans-serif;
     font-size: 28px;
@@ -362,11 +357,9 @@ header {
     color: #2d3033;
 }
 
-.d_text {}
-
 .d_text p {
     font-family: 'Raleway', sans-serif;
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 700;
     color: #2d3033;
     text-transform: uppercase;
@@ -410,14 +403,14 @@ header {
 
 .co_h4 {
     margin-bottom: 16px;
-    font-size: 18px;
+    font-size: 21px;
     font-weight: 700;
     color: #ffffff;
     text-transform: uppercase;
 }
 
 .common_p {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 300;
     color: #ffffff;
 }
@@ -441,11 +434,9 @@ footer {
     background-color: #313454;
 }
 
-.f_content {}
-
 .f_content p {
     margin-bottom: 0;
-    font-size: 14px;
+    font-size: 19px;
     font-weight: 300;
     color: #808080;
 }
