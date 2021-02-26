@@ -1,0 +1,493 @@
+            /*Extra small devices (portrait phones, less than 576px)*/
+            
+            @media (max-width: 575.98px) {
+                /* header banner start */
+                .menu ul li a {
+                    font-size: 18px;
+                }
+                .logo {
+                    width: 75%;
+                }
+                .b_content {
+                    margin-top: 40px;
+                }
+                .b_content h1 {
+                    font-size: 26px;
+                }
+                .b_content p {
+                    font-size: 18px;
+                    margin-top: 6px;
+                    line-height: 26px;
+                }
+                .c_btn {
+                    width: 150px;
+                    height: 35px;
+                    font-size: 11px;
+                }
+                .b_content button {
+                    margin-top: 25px;
+                    margin-bottom: 70px;
+                }
+                /* feature start */
+                .feature,
+                .team,
+                .download,
+                .contact {
+                    padding-top: 60px;
+                    padding-bottom: 60px;
+                }
+                .f_icon i {
+                    font-size: 45px;
+                }
+                .f_text h2 {
+                    margin-top: 25px;
+                    margin-bottom: 6px;
+                    font-size: 17px;
+                }
+                /* work start */
+                .box4 .title {
+                    font-size: 14px;
+                }
+                .box4 .post {
+                    font-size: 12px;
+                }
+                /* team start */
+                .card-title {
+                    font-size: 16px;
+                }
+                .meta {
+                    font-size: 15px;
+                }
+                .card-block {
+                    font-size: 13px;
+                }
+                .fa-2x {
+                    font-size: 26px;
+                }
+                .card-footer i {
+                    margin-right: 12px;
+                }
+                /* testimonial start */
+                /* .slider_img img {
+                    width: auto;
+                } */
+                .slider_content {
+                    margin-top: 10%;
+                    margin-left: 4%;
+                    margin-bottom: 16%;
+                }
+                .slider_content p {
+                    font-size: 22px;
+                    line-height: 34px;
+                }
+                .slider_content p span {
+                    font-size: 16px;
+                    line-height: 0px;
+                }
+                .cid {
+                    margin-right: 16%;
+                }
+                .cid li {
+                    width: 8px;
+                    height: 8px;
+                    border-radius: 50%;
+                }
+                /* download start */
+                .d_title h1 {
+                    font-size: 24px;
+                }
+                .d_text p {
+                    font-size: 13px;
+                }
+                .d_btn {
+                    margin-top: 8px;
+                }
+                .d_btn button {
+                    width: 160px;
+                    height: 38px;
+                    font-size: 12px;
+                }
+                /* contact start */
+                .locate {
+                    margin-bottom: 35px;
+                }
+                .co_h4 {
+                    margin-bottom: 6px;
+                    font-size: 16px;
+                }
+                .social {
+                    margin-bottom: 35px;
+                }
+                .common_p {
+                    font-size: 14px;
+                    line-height: 22px;
+                }
+                /* footer start */
+                .f_content p {
+                    font-size: 16px;
+                }
+            }
+            /*Small devices (landscape phones, 576px and up)*/
+            
+            @media (min-width: 576px) and (max-width: 767.98px) {
+                /* header banner start */
+                .menu ul li a {
+                    font-size: 18px;
+                }
+                .b_content {
+                    margin-top: 60px;
+                }
+                .b_content h1 {
+                    font-size: 36px;
+                }
+                .b_content p {
+                    font-size: 20px;
+                }
+                .b_content button {
+                    margin-top: 30px;
+                    margin-bottom: 100px;
+                }
+                .c_btn {
+                    width: 190px;
+                    height: 45px;
+                }
+                /* feature start */
+                .feature,
+                .download,
+                .contact {
+                    padding-top: 65px;
+                    padding-bottom: 60px;
+                }
+                .f_icon i {
+                    font-size: 55px;
+                }
+                .f_text h2 {
+                    margin-top: 30px;
+                    margin-bottom: 8px;
+                    font-size: 18px;
+                }
+                /* work start */
+                .box4 .title {
+                    font-size: 19px;
+                }
+                .box4 .post {
+                    font-size: 18px;
+                }
+                /* team start */
+                .fa-2x {
+                    font-size: 28px;
+                }
+                .card-footer i {
+                    margin-right: 14px;
+                }
+                /* testimonial start */
+                .slider_content {
+                    margin-top: 4%;
+                    margin-left: 3%;
+                    margin-bottom: 9%;
+                }
+                .slider_content p {
+                    font-size: 27px;
+                    line-height: 42px;
+                }
+                .slider_content p span {
+                    font-size: 18px;
+                }
+                .cid {
+                    margin-right: 15%;
+                }
+                /* download start */
+                .d_title h1 {
+                    font-size: 23px;
+                }
+                .d_text p {
+                    font-size: 14px;
+                }
+                .d_btn button {
+                    width: 256px;
+                    height: 38px;
+                    font-size: 11px;
+                }
+                /* contact start */
+                .locate {
+                    margin-bottom: 35px;
+                }
+                .co_h4 {
+                    margin-bottom: 10px;
+                    font-size: 18px;
+                }
+                .social {
+                    margin-bottom: 35px;
+                }
+                .common_p {
+                    font-size: 16px;
+                    line-height: 22px;
+                }
+                /* footer start */
+                .f_content p {
+                    font-size: 19px;
+                }
+            }
+            /*Medium devices (tablets, 768px and up)*/
+            
+            @media (min-width: 768px) and (max-width: 991.98px) {
+                /* header banner start */
+                /* header banner start */
+                .menu ul li a {
+                    font-size: 18px;
+                }
+                .b_content {
+                    margin-top: 60px;
+                }
+                .c_btn {
+                    width: 190px;
+                    height: 45px;
+                }
+                /* feature start */
+                .feature,
+                .download,
+                .contact {
+                    padding-top: 85px;
+                    padding-bottom: 80px;
+                }
+                .f_icon i {
+                    font-size: 60px;
+                }
+                .f_text h2 {
+                    margin-top: 30px;
+                    margin-bottom: 12px;
+                    font-size: 18px;
+                }
+                /* work start */
+                .box4 .title {
+                    font-size: 19px;
+                }
+                .box4 .post {
+                    font-size: 18px;
+                }
+                /* team start */
+                .fa-2x {
+                    font-size: 28px;
+                }
+                .card-footer i {
+                    margin-right: 14px;
+                }
+                /* testimonial start */
+                .slider_content {
+                    margin-top: 4%;
+                    margin-left: 3%;
+                    margin-bottom: 9%;
+                }
+                .slider_content p {
+                    font-size: 27px;
+                    line-height: 42px;
+                }
+                .slider_content p span {
+                    font-size: 18px;
+                }
+                .cid {
+                    margin-right: 15%;
+                }
+                /* download start */
+                .d_text p {
+                    font-size: 15px;
+                }
+                .d_btn {
+                    margin-top: 8px;
+                }
+                .d_btn button {
+                    width: 290px;
+                    height: 46px;
+                }
+                /* contact start */
+                .locate {
+                    margin-bottom: 35px;
+                }
+                .co_h4 {
+                    margin-bottom: 10px;
+                    font-size: 18px;
+                }
+                .social {
+                    margin-bottom: 35px;
+                }
+                .common_p {
+                    font-size: 16px;
+                    line-height: 22px;
+                }
+                /* footer start */
+                .f_content p {
+                    font-size: 19px;
+                }
+            }
+            /*Large devices (desktops, 992px and up)*/
+            
+            @media (min-width: 992px) and (max-width: 1199.98px) {
+                /* header banner start */
+                .menu ul li a {
+                    font-size: 18px;
+                }
+                .c_btn {
+                    width: 260px;
+                    height: 55px;
+                    font-size: 18px;
+                }
+                /* feature start */
+                .f_icon i {
+                    font-size: 60px;
+                }
+                /* work start */
+                .box4 .title {
+                    font-size: 19px;
+                }
+                .box4 .post {
+                    font-size: 18px;
+                }
+                /* team start */
+                .meta {
+                    font-size: 14px;
+                }
+                /* testimonial start */
+                .slider_content {
+                    margin-top: 4%;
+                }
+                .slider_content p {
+                    font-size: 30px;
+                    line-height: 44px;
+                }
+                .slider_content p span {
+                    font-size: 18px;
+                }
+                .cid {
+                    margin-right: 4%;
+                }
+                /* download start */
+                .d_title h1 {
+                    font-size: 28px;
+                }
+                .d_text p {
+                    font-size: 12px;
+                }
+                .d_btn {
+                    margin-top: 8px;
+                }
+                .d_btn button {
+                    width: 260px;
+                    height: 40px;
+                    font-size: 12px;
+                }
+                /* footer start */
+                .f_content p {
+                    font-size: 20px;
+                }
+                .co_h4 {
+                    margin-bottom: 14px;
+                    font-size: 20px;
+                }
+                .common_p {
+                    font-size: 16px;
+                }
+            }
+            /*Extra Extra large devices (Extra large desktops, 1400px and up)*/
+            
+            @media (min-width: 1200px) and (max-width: 1399.98px) {}
+            /*Extra Extra large devices (Extra large desktops, 1400px and up)*/
+            
+            @media (min-width: 1400px) and (max-width: 1599.98px) {}
+            /*Extra Extra large devices (Extra large desktops, 1600px and up)*/
+            
+            @media (min-width: 1600px) and (max-width: 1799.98px) {}
+            /*Extra Extra large devices (Extra large desktops, 1700px and up)*/
+            
+            @media (min-width: 1700px) and (max-width: 1999.98px) {
+                /* header banner start */
+                .feature,
+                .team,
+                .download,
+                .contact {
+                    padding-top: 95px;
+                    padding-bottom: 95px;
+                }
+                .menu ul li a {
+                    font-size: 20px;
+                }
+                .b_content p {
+                    font-size: 32px;
+                    line-height: 45px;
+                }
+                .b_content button {
+                    margin-top: 48px;
+                    margin-bottom: 140px;
+                }
+                .c_btn {
+                    width: 295px;
+                    height: 70px;
+                    font-size: 22px;
+                }
+                /* feature start */
+                .f_icon i {
+                    font-size: 75px;
+                }
+                .f_text h2 {
+                    margin-bottom: 15px;
+                    font-size: 30px;
+                }
+                .f_text p {
+                    font-size: 20px;
+                }
+                /* work start */
+                .box4 .title {
+                    font-size: 22px;
+                }
+                .box4 .post {
+                    font-size: 18px;
+                }
+                /* testimonial start */
+                .slider_content {
+                    margin-top: 5%;
+                    margin-left: 2%;
+                }
+                .slider_content p {
+                    font-size: 48px;
+                    line-height: 72px;
+                }
+                .slider_content p span {
+                    font-size: 30px;
+                }
+                .cid {
+                    margin-right: 5%;
+                }
+                .cid li {
+                    width: 18px;
+                    height: 18px;
+                }
+                /* download start */
+                .d_title h1 {
+                    font-size: 32px;
+                }
+                .d_text p {
+                    font-size: 22px;
+                }
+                .d_btn button {
+                    width: 310px;
+                    height: 60px;
+                    font-size: 16px;
+                }
+                /* contact start */
+                .co_h4 {
+                    margin-bottom: 18px;
+                    font-size: 21px;
+                }
+                .common_p {
+                    font-size: 18px;
+                }
+                .fa-2x {
+                    font-size: 34px;
+                }
+                /* footer start */
+                footer {
+                    padding: 40px 0;
+                }
+                .f_content p {
+                    font-size: 26px;
+                }
+            }
